@@ -1,0 +1,2 @@
+
+https://www.e-access.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fempsvcs%2Fhrpinmgt%2FpagLogin%2F%3FretURL%3Dhttp%253A%252F%252Frome-uat1.it.att.com%253A8880%252Fromesso%252FeCRMLogin.jsp%253Fnull%26sysName%3DCSP&REFERER=&HOSTNAME=www.e-access.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0
